@@ -1,5 +1,5 @@
 {
-    "name": "maatwebsite/excel",
+    "name": "tgit/maatwebsite-excel",
     "description": "An eloquent way of importing and exporting Excel and CSV in Laravel 4 with the power of PHPExcel",
     "license": "LGPL",
     "keywords": ["laravel", "phpexcel", "excel", "csv", "export", "import", "batch"],
@@ -12,10 +12,10 @@
     "require": {
         "php": ">=5.3.0",
         "phpoffice/phpexcel": "~1.8.0",
-        "illuminate/cache": "~4.0|~5.0",
-        "illuminate/config": "~4.0|~5.0",
-        "illuminate/filesystem": "~4.0|~5.0",
-        "illuminate/support": "~4.0|~5.0",
+        "illuminate/cache": "~4.0",
+        "illuminate/config": "~4.0",
+        "illuminate/filesystem": "~4.0",
+        "illuminate/support": "~4.0",
         "nesbot/carbon": "~1.0",
         "tijsverkoyen/css-to-inline-styles": "~1.5"
     },
